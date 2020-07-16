@@ -1,0 +1,15 @@
+i.icon {
+	font-size:2em;
+}
+
+/* .blogi{
+	margin-top : 7.0rem;
+}
+ */
+.container.main{
+	margin-top : 7.0rem;
+}
+
+#delete {
+	display : inline;
+}
